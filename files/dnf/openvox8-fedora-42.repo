@@ -1,0 +1,6 @@
+[openvox8]
+name=OpenVox 8 Repository fedora 42 - $basearch
+baseurl=https://yum.voxpupuli.org/openvox8/fedora/42/$basearch
+gpgkey=file:///etc/pki/rpm-gpg/GPG-KEY-openvox-openvox8-release
+enabled=1
+gpgcheck=1
